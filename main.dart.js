@@ -42521,7 +42521,7 @@ aL:function(){var s=t.V
 return new O.QK(new D.hC(C.cw,new P.aK(s)),new D.hC(C.cw,new P.aK(s)),C.l)}}
 O.QK.prototype={
 Y:function(a,b){var s=this,r=4279049002,q=null,p=t.p,o=T.dr(H.c([L.bk("EXPENSIFY",q,q,q,q,q,q,q),L.bk("A Minimal Expense Tracker",q,q,q,A.cJ(q,q,q,q,q,q,q,q,q,q,q,12,q,q,q,q,!0,q,q,q,q,q,q,q),q,q,q)],p),C.Y,C.a_,C.U),n=K.lI(10),m=t.kK,l=t.FT
-return M.auO(new E.vy(o,C.n_,new P.B(1/0,56),q),new P.w(r),T.hd(M.av(q,T.dr(H.c([M.av(q,L.bk("Login Details",q,q,q,A.cJ(q,q,q,q,q,q,q,q,q,q,q,28,q,C.aH,q,q,!0,q,q,q,q,q,q,q),C.bq,q,q),C.j,q,q,q,q,q,q,q,q,q,q,q),T.dz(q,20,q),L.bk("Email:",q,q,q,q,q,q,q),E.Ms(!1,s.d,L.a2u(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,"Enter Email Address",q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new D.bM("email",m),C.FH,!1,q,q,q),T.dz(q,10,q),L.bk("Password:",q,q,q,q,q,q,q),E.Ms(!1,s.e,L.a2u(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,"Enter Password",q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new D.bM("password",m),q,!0,q,q,q),T.dz(q,10,q),D.at9(L.bk("Login",q,q,q,q,q,q,q),new D.bM("loginButton",m),new O.ahd(s,b),A.Fh(q,q,new V.cL(new P.w(r),l),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),T.dz(q,10,q),M.av(q,L.bk("New user ?SignUp",q,q,q,q,q,q,q),C.j,q,q,q,q,q,q,q,q,q,q,q),T.dz(q,10,q),D.at9(L.bk("SignUp",q,q,q,q,q,q,q),new D.bM("signup",m),new O.ahe(s,b),A.Fh(q,q,new V.cL(new P.w(r),l),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q))],p),C.Y,C.a_,C.U),C.j,q,q,new S.cZ(new P.w(3772834269),q,q,n,q,q,C.a0),q,500,q,q,new V.aC(20,20,20,20),q,q,500),q,q))}}
+return M.auO(new E.vy(o,C.n_,new P.B(1/0,56),q),new P.w(r),T.hd(M.av(q,T.dr(H.c([M.av(q,L.bk("Login Details",q,q,q,A.cJ(q,q,q,q,q,q,q,q,q,q,q,28,q,C.aH,q,q,!0,q,q,q,q,q,q,q),C.bq,q,q),C.j,q,q,q,q,q,q,q,q,q,q,q),T.dz(q,20,q),L.bk("Email:",q,q,q,q,q,q,q),E.Ms(!1,s.d,L.a2u(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,"Enter Email Address",q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new D.bM("email",m),C.FH,!1,q,q,q),T.dz(q,10,q),L.bk("Password:",q,q,q,q,q,q,q),E.Ms(!1,s.e,L.a2u(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,"Enter Password",q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new D.bM("password",m),q,!0,q,q,q),T.dz(q,10,q),D.at9(L.bk("Login",q,q,q,q,q,q,q),new D.bM("loginButton",m),new O.ahd(s,b),A.Fh(q,q,new V.cL(new P.w(r),l),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),T.dz(q,10,q),M.av(q,L.bk("New user? SignUp",q,q,q,q,q,q,q),C.j,q,q,q,q,q,q,q,q,q,q,q),T.dz(q,10,q),D.at9(L.bk("SignUp",q,q,q,q,q,q,q),new D.bM("signup",m),new O.ahe(s,b),A.Fh(q,q,new V.cL(new P.w(r),l),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q))],p),C.Y,C.a_,C.U),C.j,q,q,new S.cZ(new P.w(3772834269),q,q,n,q,q,C.a0),q,500,q,q,new V.aC(20,20,20,20),q,q,500),q,q))}}
 O.ahd.prototype={
 $0:function(){var s=0,r=P.a0(t.H),q=this,p,o,n
 var $async$$0=P.V(function(a,b){if(a===1)return P.Y(b,r)
@@ -42562,7 +42562,7 @@ $1:function(a){var s=null,r=L.bk("Signed Up Successfully",s,s,s,s,s,s,s)
 return E.any(L.bk("Login to continue",s,s,s,s,s,s,s),new D.bM("signedup",t.kK),r)},
 $S:84}
 O.aha.prototype={
-$1:function(a){var s=null,r=L.bk("Signed Up Successfully",s,s,s,s,s,s,s)
+$1:function(a){var s=null,r=L.bk("Something Went Wrong",s,s,s,s,s,s,s)
 return E.any(L.bk(this.a,s,s,s,s,s,s,s),s,r)},
 $S:84}
 D.mb.prototype={
